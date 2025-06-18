@@ -9,17 +9,13 @@ spec:
   purpose: Learning, practicing and showcasing knowledge about DevOps and Cloud Computing
   website: https://www.jorgepezuela.site
   locations:
-    - 
-      type: Portfolio
+    - type: Portfolio
       where: https://www.jorgepezuela.site
-    - 
-      type: LinkedIn
+    - type: LinkedIn
       where: https://www.linkedin.com/in/jorge-pezuela-gonzalez
-    - 
-      type: GitHub
+    - type: GitHub
       where: https://github.com/jorgepezuela
-    -
-      type: CV
+    - type: CV
       where: https://cv-jorgepezuela.site
   Interests:
     sports: 🏋️
